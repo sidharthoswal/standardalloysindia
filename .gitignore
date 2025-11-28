@@ -1,0 +1,8 @@
+# Large files
+*.zip
+
+# macOS
+.DS_Store
+
+# Mobirise project files
+*.mobirise
